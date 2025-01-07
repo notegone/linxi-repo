@@ -1,0 +1,48 @@
+site_name: Lin Xi Lyrics Collection
+site_url: https://notegone.github.io/linxi-lyrics/
+repo_name: notegone/linxi-lyrics
+repo_url: https://github.com/notegone/linxi-lyrics
+
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: 
+        - en
+        - ja  # Japanese segmentation rules also work well for Chinese
+      separator: '[\s\-\.\。\，\,]+'  # Add Chinese punctuation as separators
+      jieba_dict: dict.txt  # Optional: custom dictionary for better word segmentation
+
+# Necessary for GitHub Pages
+use_directory_urls: true

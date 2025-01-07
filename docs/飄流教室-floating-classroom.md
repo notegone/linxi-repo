@@ -1,0 +1,128 @@
+# 飄流教室 (Floating Classroom)
+
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/B1dDPfs6cXo" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Lyrics
+
+<div class="lyrics-container">
+[古巨基 & Edan 呂爵安「飄流教室」歌詞]<br>
+[前奏:<br>
+Edan 呂爵安<br>
+]<br>
+誰自願恨成世 愛情不等於一切<br>
+共聚又離開 從來並未學到可以發誓<br>
+可抱起來 亦拋得低<br>
+但學費都真的太貴<br>
+[主歌一: 古巨基,<br>
+Edan 呂爵安<br>
+]<br>
+如果 沒有初戀感動經過<br>
+下個怎會愛得死我<br>
+種種因果這日才有我<br>
+情實在太多<br>
+如果 失戀失得不夠折墮<br>
+何來這剎那夠勇敢的我<br>
+所有伴侶都有份教我<br>
+曾太過拚命愛<br>
+[導歌: 古巨基,<br>
+Edan 呂爵安<br>
+,<br>
+二人<br>
+]<br>
+壓力<br>
+大到彼此多麼好<br>
+也不得<br>
+不分開<br>
+試過友情拿來暫借單戀多悲哀 大概<br>
+其實要最真心說聲 多謝愛<br>
+學到的多精彩<br>
+[副歌: 古巨基,<br>
+Edan 呂爵安<br>
+,<br>
+二人<br>
+]<br>
+誰又是做人世 眼淚不等於一切<br>
+獻上我的心 亦要適當去自衛<br>
+是 我好勝<br>
+我愛哭 不是問題<br>
+不這樣愛下個 便傷不到底<br>
+誰自願恨成世 愛情不等於一切<br>
+共聚又離開 從來並未學到可以發誓<br>
+可抱起來 亦拋得低<br>
+但學費都真的太貴<br>
+[主歌二: 古巨基,<br>
+Edan 呂爵安<br>
+]<br>
+曾經 (曾經)<br>
+這雙手給她抹眼淚 (給她抹眼淚)<br>
+拿來抱你以免你的心碎<br>
+一個又一個也得過去<br>
+而我已透視你<br>
+[導歌: 古巨基,<br>
+Edan 呂爵安<br>
+,<br>
+二人<br>
+]<br>
+怕寂寞叫你遇上我所以不得不一起<br>
+過去有人同樣害我少一位知己<br>
+別怕<br>
+明白你始終都會走<br>
+多謝你<br>
+多謝你<br>
+如今我輸得起<br>
+[副歌: 古巨基,<br>
+Edan 呂爵安<br>
+,<br>
+二人<br>
+]<br>
+誰又是做人世 眼淚不等於一切<br>
+獻上我的心 亦要適當去自衛<br>
+是 我好勝<br>
+我愛哭 不是問題<br>
+不這樣愛下個 便傷不到底<br>
+誰自願恨成世 愛情不等於一切<br>
+共聚又離開 從來並未學到可以發誓<br>
+可抱起來 亦拋得低<br>
+但學費都真的太貴<br>
+[過渡: 古巨基,<br>
+Edan 呂爵安<br>
+,<br>
+二人<br>
+]<br>
+最需要學的是<br>
+如何 麻木了又重頭開始<br>
+讓每一次亦似初戀第一次<br>
+然後再為了下次開始<br>
+[副歌: 古巨基,<br>
+Edan 呂爵安<br>
+,<br>
+二人<br>
+]<br>
+誰又是做人世 眼淚不等於一切<br>
+獻上我的心 亦要適當去自衛<br>
+是 我好勝<br>
+我愛哭 不是問題<br>
+不這樣愛下個 便傷不到底<br>
+誰自願恨成世 愛情不等於一切<br>
+共聚又離開 從來並未學到可以發誓<br>
+轉眼飄流 是哪一位<br>
+但學費<br>
+都真的太貴
+</div>
+
+## Vocabulary
+
+| Word | Pinyin | Jyutping | English Definition |
+|------|---------|-----------|-------------------|
+| 初画 | chu1 hua4 | co1 waa2 | first love |
+| 解离 | jie3 li2 | gaai2 lei4 | break up, separation |
+| 抢赢 | qiang3 ying2 | coeng2 jeng4 | temporary transfer of something, lend |
+| 好而 | hao3 er2 | hou2 ji4 | and yet |
+| 反眠 | fan3 mian2 | faan2 min4 | reverse, opposite |
+| 益课 | yi4 ke4 | jik1 fo3 | tuition fee |
+| 去度 | qu4 du4 | heoi3 dou6 | distance, gap |
+| 純课 | chun2 ke4 | seon4 fo3 | love affair, romance |
+| 雍南 | yong1 nan2 | jung1 naam4 | depression, feeling low |
+| 訂出 | ding4 chu1 | ding3 ceot1 | swear, promise |

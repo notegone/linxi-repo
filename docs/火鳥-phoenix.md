@@ -1,0 +1,67 @@
+# 火鳥 (Phoenix)
+
+<div class="video-container">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/4AmOaYqyUI4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Lyrics
+
+<div class="lyrics-container">
+[陳輝陽 x 女聲合唱「火鳥」歌詞]<br>
+[主歌一]<br>
+掃去記憶裡的<span class="vocab-word" data-tooltip="hong2 mao2 | hung4 mou4 | feather; insignificance">鴻毛</span><br>
+逃離未蒸發的<span class="vocab-word" data-tooltip="bo2 wu4 | bok6 mou6 | thin mist">薄霧</span><br>
+放棄跳不了那場圓舞<br>
+遺忘是過程沒壞與好<br>
+過去給拋進<span class="vocab-word" data-tooltip="rong2 yan2 | jung4 ngaam4 | lava">熔岩</span>的心灰飛了<br>
+<span class="vocab-word" data-tooltip="fu2 chen2 | fau4 can4 | dust suspended in the air">浮塵</span>沒帶來天動地搖<br>
+近鏡的一切化為長鏡<br>
+閉目然後微笑<br>
+[副歌]<br>
+從頭細數命運由甚麼鑄成<br>
+心境每秒在註釋生命<br>
+<span class="vocab-word" data-tooltip="mi4 yun2 | mat6 wan4 | dense cloud; thick cloud">密雲</span>外還有清空<br>
+眼淚哪可遮掩眼睛<br>
+沒有光末路憑目光照明<br>
+火花擦碎後更加豐盛<br>
+<span class="vocab-word" data-tooltip="tian1 guo2 | tin1 gwok3 | heaven; paradise">天國</span>近才會記得不死本領<br>
+你也痛醒請做証<br>
+[主歌二]<br>
+太固執所以也痛苦得很可愛<br>
+從前樂意地死去活來<br>
+我縱使可以燃燒下去<br>
+誰來為那場趣劇<span class="vocab-word" data-tooltip="zhi4 ai1 | zi3 oi1 | to mourn; to express condolences">致哀</span><br>
+曾經 <span class="vocab-word" data-tooltip="mang2 | maang4 | blind; insensitive to">盲</span>目到望晚空等黃昏<br>
+麻木到願發生的蠢事持續發生<br>
+床前無明燈提示每日重新做人<br>
+我不變怎改變一個人<br>
+如像火鳥在洪爐內花瓣<br>
+在<span class="vocab-word" data-tooltip="xuan2 ya2 | jyun4 ngaai4 | cliff; precipice">懸崖</span>上躍下才可再生<br>
+[副歌]<br>
+從頭細數命運由甚麼鑄成<br>
+心境每秒在註釋生命<br>
+<span class="vocab-word" data-tooltip="mi4 yun2 | mat6 wan4 | dense cloud; thick cloud">密雲</span>曾蒙閉 給沾濕的眼睛<br>
+認定雨天找不到星<br>
+沒有光末路憑目光照明<br>
+火花擦碎後更加豐盛<br>
+<span class="vocab-word" data-tooltip="tian1 guo2 | tin1 gwok3 | heaven; paradise">天國</span>近才會記得不死本領<br>
+誰曾忘掉這種<span class="vocab-word" data-tooltip="wu4 xing4 | ng6 sing3 | understanding; insight">悟性</span><br>
+[尾奏]<br>
+今天火鳥在洪爐外飛舞<br>
+在<span class="vocab-word" data-tooltip="xuan2 ya2 | jyun4 ngaai4 | cliff; precipice">懸崖</span>上看雲裡有星
+</div>
+
+## Vocabulary
+
+| Word | Pinyin | Jyutping | English Definition |
+|------|---------|-----------|-------------------|
+| 鴻毛 | hong2 mao2 | hung4 mou4 | feather; insignificance |
+| 薄霧 | bo2 wu4 | bok6 mou6 | thin mist |
+| 熔岩 | rong2 yan2 | jung4 ngaam4 | lava |
+| 浮塵 | fu2 chen2 | fau4 can4 | dust suspended in the air |
+| 密雲 | mi4 yun2 | mat6 wan4 | dense cloud; thick cloud |
+| 天國 | tian1 guo2 | tin1 gwok3 | heaven; paradise |
+| 盲 | mang2 | maang4 | blind; insensitive to |
+| 懸崖 | xuan2 ya2 | jyun4 ngaai4 | cliff; precipice |
+| 致哀 | zhi4 ai1 | zi3 oi1 | to mourn; to express condolences |
+| 悟性 | wu4 xing4 | ng6 sing3 | understanding; insight |
