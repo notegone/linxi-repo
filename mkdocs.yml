@@ -42,7 +42,7 @@ plugins:
         - en
         - ja  # Japanese segmentation rules also work well for Chinese
       separator: '[\s\-\.\。\，\,]+'  # Add Chinese punctuation as separators
-      jieba_dict: dict.txt  # Optional: custom dictionary for better word segmentation
+      #jieba_dict: dict.txt  # Optional: custom dictionary for better word segmentation
 
 # Necessary for GitHub Pages
 use_directory_urls: true
