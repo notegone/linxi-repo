@@ -1,7 +1,7 @@
 site_name: Lin Xi Lyrics Collection
-site_url: https://notegone.github.io/linxi-lyrics/
-repo_name: notegone/linxi-lyrics
-repo_url: https://github.com/notegone/linxi-lyrics
+site_url: https://notegone.github.io/linxi-repo/
+repo_name: notegone/linxi-repo
+repo_url: https://github.com/notegone/linxi-repo
 
 theme:
   name: material
